@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Wish List</string>
+    <string name="hint">write down your wish list here</string>
+    <string name="wishList">My Wish List</string>
+    <string name="filter">enter keyword to filter</string>
+    <string name="btnFilter">Filter</string>
+    <string name="btnView">View</string>
+    <string name="btnInsert">Insert</string>
+    <string name="star">5 stars: want it very badly; 1 star: not necessary</string>
+</resources>
